@@ -36,4 +36,4 @@ This work extends my [DRBSD-11 @ SC25](https://drbsd.github.io/) paper through m
 
 ### Contact
 
-[seyun.jeong@slu.edu](mailto:seyun.jeong@slu.edu) · [linkedin.com/in/seyunjeong](https://linkedin.com/in/seyunjeong) · [Portfolio](https://portifolio-sandy.vercel.app)
+[seyun.jeong@slu.edu](mailto:seyun.jeong@slu.edu) · [linkedin.com/in/seyunjeong](https://linkedin.com/in/jeongseyun7) · [Portfolio](https://jeongseyun7.vercel.app)
