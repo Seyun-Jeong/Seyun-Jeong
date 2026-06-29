@@ -22,7 +22,6 @@ This work extends my [DRBSD-11 @ SC25](https://drbsd.github.io/) paper through m
 | Project | Stack | What |
 |---|---|---|
 | [scrna-benchmark](https://github.com/Seyun-Jeong/scrna-benchmark) | Python · RAPIDS · Scanpy · CUDA | CPU vs GPU scRNA-seq validation framework |
-| Healthcare data infrastructure *(personal)* | Python · Go · TypeScript · PostgreSQL | Price-transparency tooling for medical billing |
 | [Portfolio + Blog](https://portifolio-sandy.vercel.app) | React · Vite | Writing about bioinformatics and systems |
 
 ---
@@ -32,9 +31,6 @@ This work extends my [DRBSD-11 @ SC25](https://drbsd.github.io/) paper through m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
