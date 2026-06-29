@@ -7,12 +7,13 @@ GPU-accelerated single-cell RNA-seq · Healthcare data infrastructure
 
 ### Research
 
-I am developing a quantitative validation framework for comparing CPU and GPU-accelerated scRNA-seq pipelines — Scanpy, RAPIDS-singlecell, Seurat, and ScaleSC. The goal is to characterise where platform choice introduces divergence in biological conclusions, not just runtime.
+I am developing a quantitative validation framework for comparing CPU and GPU-accelerated scRNA-seq pipelines: Scanpy, RAPIDS-singlecell, Seurat, and ScaleSC. The goal is to characterise where platform choice introduces divergence in biological conclusions, not just runtime.
 
-This work extends my SC'25 workshop research through multi-seed reproducibility experiments, negative controls, and biological-signal preservation metrics.
+This work extends my [DRBSD-11 @ SC25](https://drbsd.github.io/) paper through multi-seed reproducibility experiments, negative controls, and biological-signal preservation metrics.
 
-> *Identifying Platform-Dependent Divergence in Single-Cell RNA-Seq Analysis:  
-> A Quantitative Validation Framework Across CPU and GPU Pipelines*
+> **[Evaluating Accuracy and Performance Tradeoffs in GPU Accelerated Single Cell RNA-seq Analysis](https://dl.acm.org/doi/10.1145/3731599.3767378)**  
+> Cory Gardner, Seyun Jeong, Oam Khatavkar, Aiden Moon, Qinglei Cao, Tae-Hyuk Ahn  
+> *DRBSD-11, SC25 — Best Paper Runner-up Award*
 
 ---
 
