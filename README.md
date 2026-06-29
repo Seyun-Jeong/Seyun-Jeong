@@ -1,7 +1,7 @@
 # Seyun Jeong
 
 **M.S. Artificial Intelligence · Saint Louis University · BioHPC Lab**  
-GPU-accelerated single-cell RNA-seq · Healthcare data infrastructure
+GPU-accelerated single-cell RNA-seq · HPC · Healthcare data infrastructure
 
 ---
 
@@ -22,7 +22,7 @@ This work extends my [DRBSD-11 @ SC25](https://drbsd.github.io/) paper through m
 | Project | Stack | What |
 |---|---|---|
 | [scrna-benchmark](https://github.com/Seyun-Jeong/scrna-benchmark) | Python · RAPIDS · Scanpy · CUDA | CPU vs GPU scRNA-seq validation framework |
-| MedReveal | Python · Go · TypeScript · PostgreSQL | Healthcare price-transparency data infrastructure |
+| Healthcare data infrastructure *(personal)* | Python · Go · TypeScript · PostgreSQL | Price-transparency tooling for medical billing |
 | [Portfolio + Blog](https://portifolio-sandy.vercel.app) | React · Vite | Writing about bioinformatics and systems |
 
 ---
